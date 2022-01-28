@@ -21,13 +21,28 @@ venidium-dashboard-satellite
 npm update -g venidium-dashboard-satellite
 ```
 
+## Docker Image of satellite
+
+Docker image are also available on ghcr.
+Pull
+
+```bash
+docker pull ghcr.io/minergreggy/venidium-dashboard-satellite:latest
+```
+
+OR
+
+Just add into the docker run or docker-compose
+
+```bash
+ghcr.io/minergreggy/venidium-dashboard-satellite:latest
+```
+
 ## Donate
 
-Forked From Felixbruckers Hard Work I CopyPasta Modded This All Hard Work Still Done By Felix His Address Are Below:
-- BHD: 33fKEwAHxVwnrhisREFdSNmZkguo76a2ML
-- BURST: BURST-BVUD-7VWE-HD7F-6RX4P
-- ETH: 0xfEc6F48633A7c557b4ac5c37B4519C55CD701BEF
-- BTC: 14rbdLr2YXDkguVaqRKnPftTPX52tnv2x2
+Forked From Felixbruckers (foxypool) Hard Work I CopyPasta Modded This All Hard Work Still Done By Felix His Address Are Below:
+
+- CHIA: xch1063ymlv3saaxkh87h287nc3laelnxss0897xdw6g8zj6yvaa4elslg0xfa
 - PP: https://www.paypal.me/felixbrucker
 
 ## Changelog

@@ -1,4 +1,11 @@
 
+1.13.0 / 2022-01-22
+==================
+
+* Update dependencies.
+* Increase sync interval.
+* Remove unused fields from request bodies.
+
 1.12.7 / 2021-11-06
 ==================
 
